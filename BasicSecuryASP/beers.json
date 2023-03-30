@@ -1,0 +1,39 @@
+[
+    {
+        "Id": 1,
+        "Name": "Tekate Light",
+        "Brand": "Heineken Mexico",
+        "Alcohol": 3.5
+    },
+    {
+        "Id": 2,
+        "Name": "Tekate Rojo",
+        "Brand": "Heineken Mexico",
+        "Alcohol": 4.2
+    },
+    {
+        "Id": 3,
+        "Name": "Indio",
+        "Brand": "Heineken Mexico",
+        "Alcohol": 3.5
+    },
+    {
+        "Id": 4,
+        "Name": "Corona ",
+        "Brand": "Grupo Corona",
+        "Alcohol": 4.5
+    },
+    {
+        "Id": 5,
+        "Name": "Modelo Especial",
+        "Brand": "Grupo Corona",
+        "Alcohol": 4.4
+    },
+    {
+        "Id": 6,
+        "Name": "Bohemia ",
+        "Brand": "Heineken Mexico",
+        "Alcohol": 4.8
+    }
+]
+
